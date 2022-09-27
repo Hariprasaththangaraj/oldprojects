@@ -1,0 +1,10 @@
+package com.server.main.user.ResponseModel;
+
+@Data
+public class UserDetails {
+
+	int sno;
+	String name;
+	int age;
+
+}

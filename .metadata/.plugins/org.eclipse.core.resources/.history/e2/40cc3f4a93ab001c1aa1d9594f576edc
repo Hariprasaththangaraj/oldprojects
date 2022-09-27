@@ -1,0 +1,32 @@
+package com.javatpoint.server.main.userModel;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+
+import lombok.Getter;
+import lombok.Setter;
+
+@Entity // to create DB
+@Table(name="User_registration") // to create Table
+@Getter // to create Getter
+@Setter // to create setter
+public class Userentity {
+
+	@Id // to set primary key
+	@GeneratedValue(strategy = GenerationType.AUTO) // to generate the value automatically
+	int sno;
+	String name;
+	int phonenumber;
+	Address address;
+
+	enum gender {
+		Male, Female, Notspecified
+	};
+
+}

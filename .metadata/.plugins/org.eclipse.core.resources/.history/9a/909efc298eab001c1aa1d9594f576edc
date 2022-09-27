@@ -1,0 +1,15 @@
+package com.javatpoint.server.main.user;
+
+import org.springframework.boot.builder.SpringApplicationBuilder;
+import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
+
+import com.javatpoint.server.main.userModel.UsercreationApplication;
+
+public class ServletInitializer extends SpringBootServletInitializer {
+
+	@Override
+	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
+		return application.sources(UsercreationApplication.class);
+	}
+
+}

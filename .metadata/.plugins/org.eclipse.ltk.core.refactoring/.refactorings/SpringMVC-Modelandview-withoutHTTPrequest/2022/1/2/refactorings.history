@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SpringMVC-Modelandview-withoutHTTPrequest/src/main/webapp/pg/1.jsp&apos; to &apos;hari.jsp&apos;" description="Rename resource &apos;1.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/pg/1.jsp" name="hari.jsp" stamp="1641201241726" updateReferences="true"/>
+</session>

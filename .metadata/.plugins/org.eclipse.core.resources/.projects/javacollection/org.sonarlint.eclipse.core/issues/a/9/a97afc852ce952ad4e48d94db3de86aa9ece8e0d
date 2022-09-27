@@ -1,0 +1,8 @@
+
+n
+java:S1659"ADeclare "city" and all following declarations on a separate line.(¸üºH»ÔRMINORZ
+CODE_SMELL
+~	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öÙïàşÿÿÿÿH¿ÔRMINORZ
+CODE_SMELL
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ßHÀÔRMINORZ
+CODE_SMELL

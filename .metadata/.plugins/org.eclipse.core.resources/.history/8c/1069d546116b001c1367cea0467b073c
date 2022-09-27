@@ -1,0 +1,2 @@
+spring.mvc.view.prefix=/Loginpage/
+spring.mvc.view.suffix=.jsp

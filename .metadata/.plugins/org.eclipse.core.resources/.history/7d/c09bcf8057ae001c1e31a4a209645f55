@@ -1,0 +1,5 @@
+package com.server.main.user.ResponseModel;
+
+public class UserDetails {
+
+}

@@ -1,0 +1,5 @@
+
+В	java:S114	"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(вЃЛІь€€€€HбнRMINORZ
+CODE_SMELL
+Ж	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(пґіНHвнRMINORZ
+CODE_SMELL

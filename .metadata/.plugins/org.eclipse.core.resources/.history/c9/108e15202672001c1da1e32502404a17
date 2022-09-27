@@ -1,0 +1,36 @@
+package com.javatpoint.server.main.user;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class UserResource {
+
+	@Autowired
+	private UserDaoService userdaoService;
+
+	@GetMapping("/Users")
+	public List<User> allusersdetails() {
+		return userdaoService.findall();
+	}
+
+	//retrieves a specific user detail  
+	@GetMapping("/Users/{id}")
+	public User individualinfo(@PathVariable int id) {
+		return userdaoService.findid(id);
+	}
+	
+	//method that posts a new user detail   
+	@PostMapping("/users")
+	public void createUser(@RequestBody User user) {
+		User savedUser = userdaoService.save(user);
+	}
+}
+
+

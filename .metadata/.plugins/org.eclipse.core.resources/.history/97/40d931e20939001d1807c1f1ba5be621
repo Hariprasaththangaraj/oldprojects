@@ -1,0 +1,25 @@
+package com.server.main.user.practise;
+
+public class javapractise {
+
+	public static void main(String args[]) {
+
+		practisemethod();
+
+	}
+
+	public static void practisemethod() {
+		// String reverse
+
+		String name = "Hariprasath";
+
+		char[] print = name.toCharArray();
+		
+		for (int i = print.length-1; i >= 0; i--) {
+			System.out.print(print[i]);
+		}
+
+		System.out.println("/n" + "/n LEFT ROTATION");
+		
+	}
+}

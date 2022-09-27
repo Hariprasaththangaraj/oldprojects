@@ -1,0 +1,28 @@
+package com.server.main.user.practise;
+
+public class javapractise {
+
+	
+	public static void main(String args[]) {
+		
+		practisemethod();
+		
+	}
+	
+	
+	public static void practisemethod() {
+		//String reverse
+		
+		String name = "Hariprasath";
+		
+	char[] print = name.toCharArray();
+	
+	       int lengthofname = print.length;
+	
+	for(int i=lengthofname-1; i>=0; i--) {
+		System.out.print(i);
+	}		
+
+		//System.out.print(print);
+	}
+}

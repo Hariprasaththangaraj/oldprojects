@@ -1,0 +1,16 @@
+package com.server.main.user.practise;
+
+public class javapractise {
+
+	
+	public static void main(String args[]) {
+		
+		practisemethod();
+		System.out.print("Hellow");
+	}
+	
+	
+	public static void practisemethod() {
+		
+	}
+}

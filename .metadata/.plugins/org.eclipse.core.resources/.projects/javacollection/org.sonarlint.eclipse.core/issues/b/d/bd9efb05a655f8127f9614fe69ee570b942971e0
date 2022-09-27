@@ -1,0 +1,15 @@
+
+c
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH±ÔRINFOZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Î€±óşÿÿÿÿH²ÔRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ‡ó¶ıÿÿÿÿH³ÔRMAJORZ
+CODE_SMELL
+}
+java:S1192"HDefine a constant instead of duplicating this literal "Address" 4 times.(¼å¸‹ıÿÿÿÿH´ÔRCRITICALZ
+CODE_SMELL
+~	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(º üÿÿÿÿH¹ÔRMINORZ
+CODE_SMELL
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ßHºÔRMINORZ
+CODE_SMELL

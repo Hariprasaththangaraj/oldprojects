@@ -1,0 +1,15 @@
+
+g
+java:S1068".Remove this unused "httpStatus" private field.(ı·¥ùÿÿÿÿ8°Ú©…0HÓ‘RMAJORZ
+CODE_SMELL
+\
+java:S1165"#Make this "httpStatus" field final.(ı·¥ùÿÿÿÿ8°Ú©…0HÕ‘RMINORZ
+CODE_SMELL
+`
+java:S1068",Remove this unused "message1" private field.(ÄöëÖ8ÇÊ×Ğ…0HÖ‘RMAJORZ
+CODE_SMELL
+y	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(İØªHØ‘RMINORZ
+CODE_SMELL
+U
+java:S1165"!Make this "message1" field final.(ÄöëÖ8ÇÊ×Ğ…0HÒ‘RMINORZ
+CODE_SMELL

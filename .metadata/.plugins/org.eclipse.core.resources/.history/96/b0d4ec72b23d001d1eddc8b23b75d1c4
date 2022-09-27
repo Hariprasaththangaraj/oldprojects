@@ -1,0 +1,17 @@
+package com.server.main.user.configuration;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class TwilioInilizer {
+	
+	private final TwilioConfiguration twilioconfiguration;
+	
+	@Autowired
+	public TwilioInilizer(TwilioConfiguration twilioConfiguration) {
+		this.twilioconfiguration=twilioConfiguration;
+	}
+	
+	
+}
