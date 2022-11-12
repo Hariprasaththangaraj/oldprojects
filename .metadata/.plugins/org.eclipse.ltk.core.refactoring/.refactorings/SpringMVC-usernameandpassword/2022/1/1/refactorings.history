@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Move element &apos;Loginpage&apos; to &apos;webapp&apos;&#x0D;&#x0A;- Original project: &apos;SpringMVC-usernameandpassword&apos;&#x0D;&#x0A;- Destination element: &apos;webapp&apos;&#x0D;&#x0A;- Original element: &apos;Loginpage&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move folder" element1="src/main/webapp/Loginpage" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1641047860621" target="/SpringMVC-usernameandpassword-1/src/main/webapp" units="0" version="1.0"/>
-</session>

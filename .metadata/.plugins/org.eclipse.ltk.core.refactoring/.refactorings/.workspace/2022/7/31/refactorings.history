@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;SMSAlertApplication&apos; to &apos;SMSAlertDataBaseApplication&apos;" description="Rename resource &apos;SMSAlertApplication&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/SMSAlertApplication" name="SMSAlertDataBaseApplication" stamp="1658846458122" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;calculator-master&apos;" deleteContents="true" description="Delete resource &apos;calculator-master&apos;" element1="/calculator-master" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1658851890356"/>
-</session>

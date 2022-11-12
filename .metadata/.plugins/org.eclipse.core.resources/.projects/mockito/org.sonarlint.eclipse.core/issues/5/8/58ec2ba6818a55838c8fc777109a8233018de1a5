@@ -1,8 +1,0 @@
-
-Š
-java:S1104"WMake Todoservice a static final constant or non-public and provide accessors if needed.(ç¡ê58úñÎˆ0H¶RMINORZ
-CODE_SMELL
-ˆ	java:S116"VRename this field "Todoservice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¡ê58úñÎˆ0HµRMINORZ
-CODE_SMELL
-y	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°ÉÙÃH´RMINORZ
-CODE_SMELL

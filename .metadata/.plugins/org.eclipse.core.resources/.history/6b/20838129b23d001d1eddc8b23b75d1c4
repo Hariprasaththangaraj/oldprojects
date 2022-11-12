@@ -1,9 +1,0 @@
-package com.server.main.user.configuration;
-
-import org.springframework.context.annotation.Configuration;
-
-@Configuration
-public class twilioInilizer {
-	
-	private final TwilioConfiguration twilioconfiguration = new TwilioConfiguration();
-}
